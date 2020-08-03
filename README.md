@@ -2,6 +2,6 @@
 
 **Install the following packages, if not installed earlier:**
 
-pyttsx3
-speech_recognition
-wolframalpha
+* pyttsx3
+* speech_recognition
+* wolframalpha
