@@ -12,7 +12,7 @@ It can understand human speech, talk to user and execute basic commands.
 *   **Tells the internet speed (ping, uplink and downling)** (e.g 'Vision tell me the internet speed')
 *   **Tells the internet availability** (e.g 'Vision is the internet connection ok?')
 *   **Tells the daily news** (e.g 'Vision tell me today news')
-*   **Opens applications** (e.g 'vision open firefox')
+*   **Opens applications** (e.g 'Vision open firefox')
 *   **Tells the current location** (e.g 'Vision tell me current location')
 *   **Do basic calculations** (e.g 'Vision calculate (5 + 6) * 8' or 'Vision one plus one')
 *   **Send Mail** (e.g 'Vision send mail')
