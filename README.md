@@ -27,7 +27,7 @@ All the following APIs have free no-commercial API calls. Subscribe to the follo
 *   [OpenWeatherMap](https://openweathermap.org/appid): API for weather forecast.
 *   [WolframAlpha](https://developer.wolframalpha.com/portal/myapps/): API for answer questions.
 *   [IPINFO](https://ipinfo.io/signup): API for current location.
-*   [NEWS](https://newsapi.org/register): API for news.
+*   [NEWSAPI](https://newsapi.org/register): API for news.
 
 ### Setup Vision in Windows system
 *   Download the Vision repo localy:
