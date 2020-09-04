@@ -48,5 +48,5 @@ vision\api.py
 
 *   Start the assistant service:
 ```bash
-run vision.py
+python3 vision.py
 ```
