@@ -17,7 +17,7 @@ engine.setProperty('voice', voices[1].id)
 rate = engine.getProperty('rate')
 engine.setProperty('rate', 150)
 
-# This are the list of wake, closing and compos
+# This is the list of wake, closing and compos
 ready = ['vision', 'you there vision', 'are you there vision', 'vision are you there', 'vision you there',
          'are you ready', 'vision are you ready', 'you ready vision', 'vision you ready']
 closing = ['terminate', 'terminate now', 'exit', 'exit now', 'close', 'bye', 'ok bye', 'ok close', 'close conversation',
