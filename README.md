@@ -4,12 +4,12 @@ It can understand human speech, talk to user and execute basic commands.
 
 #### Assistant Skills 
 *   **Opens a web page** (e.g 'Vision open youtube')
-*   **Play videos in Youtube** (e.g 'Vision youtube mozart')
-*   **Opens windows office applications (word, powerpoint, excel)** (e.g 'Vision open word')
+*   **Play videos in YouTube** (e.g 'Vision YouTube mozart')
+*   **Opens windows office applications (word, PowerPoint, excel)** (e.g 'Vision open word')
 *   **Tells about something**, by searching on the internet (e.g 'Vision tells me about oranges')
 *   **Tells the weather** for a place (e.g 'Vision tell me the weather in Surat')
 *   **Tells the current time and/or date** (e.g 'Vision tells me time or date')
-*   **Tells the internet speed (ping, uplink and downling)** (e.g 'Vision tell me the internet speed')
+*   **Tells the internet speed (ping, uplink and downlink)** (e.g 'Vision tell me the internet speed')
 *   **Tells the internet availability** (e.g 'Vision is the internet connection ok?')
 *   **Tells the daily news** (e.g 'Vision tell me today news')
 *   **Opens applications** (e.g 'Vision open firefox')
@@ -30,18 +30,24 @@ All the following APIs have free no-commercial API calls. Subscribe to the follo
 *   [NEWSAPI](https://newsapi.org/register): API for news.
 
 ### Setup Vision in Windows system
-*   Download the Vision repo localy:
+*   Download the Vision repo locally:
 
 ```bash
 git clone https://github.com/parthjetani/Vision
 ```
 
-*   Put the Keys in settings
-
-**NOTE:** *For better exprerience, before you start the application you can put the free KEYs in the api.py*
+**NOTE:** *For better experience, before you start the application you can put the free KEYs in the api.py*
 
 ```bash
 vision\api.py
+```
+
+* Create venv and install the requirements.txt file:
+
+```bash
+python3 -m vnev venv
+source venv/bin/activate
+pip3 install -r requirements.txt
 ```
 
 ### Start voice assistant
